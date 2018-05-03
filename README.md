@@ -6,3 +6,5 @@
   - Expo icons list- https://expo.github.io/vector-icons/
 - React Native
   - Keyboard spacer (lib for creating good layout with using keyboard )- https://github.com/Andr3wHur5t/react-native-keyboard-spacer
+- GIT
+  - Aliases - https://githowto.com/ru/aliases
